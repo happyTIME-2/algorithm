@@ -31,5 +31,4 @@ const selectSort =( array) => {
 }
 
 const result = selectSort([3, 5, 2, 1, 9, 6, 2, 10]);    // [1,2,2,3,5,6,9,10]
-
 ```
